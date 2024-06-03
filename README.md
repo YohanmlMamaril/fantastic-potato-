@@ -1,2 +1,2 @@
 # fantastic-potato-
-Game dev
+I'm making a website for project management and productivity. 
